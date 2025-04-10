@@ -1,5 +1,7 @@
 # Zero-Shot Object Detection Using OWL-ViT
 
+https://github.com/user-attachments/assets/1fbb9a37-4509-40eb-8a18-32d77e8f2164
+
 
 How It Works:
 
